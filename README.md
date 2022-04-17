@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-- ![My screenshot](https://raw.githubusercontent.com/halibal/interactive-rating-component/main/interactive_rating_component_my_solution.png)
+- ![My screenshot](https://raw.githubusercontent.com/halibal/nft-preview-card-component/main/images/nft_preview_car_component_project.png)
 
 ### Links
 
@@ -39,8 +39,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - [Flex](https://getbootstrap.com/docs/5.0/utilities/flex/)
-- [Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
-- [JavaScript](https://www.javascript.com)
 
 ## Author
 
@@ -50,4 +48,4 @@ Users should be able to:
 
 ## Acknowledgments
 
-Thank you Ayse Varlik for helping me on the completion of this project.
+Thank you [Ayse Varlik](https://www.frontendmentor.io/profile/aysevarlik) for the completion of this project.
