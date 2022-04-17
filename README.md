@@ -1,18 +1,16 @@
-# Frontend Mentor - Interactive rating component solution
+# Frontend Mentor - NFT Preview Card Component Solution
 
-This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
-- [Frontend Mentor - Interactive rating component solution](#frontend-mentor---interactive-rating-component-solution)
+- [Frontend Mentor - NFT Preview Card Component Solution](#frontend-mentor---nft-preview-card-component-solution)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [The challenge](#the-challenge)
     - [Screenshot](#screenshot)
     - [Links](#links)
     - [Built with](#built-with)
-    - [Continued development](#continued-development)
-    - [Useful resources](#useful-resources)
   - [Author](#author)
   - [Acknowledgments](#acknowledgments)
 
@@ -34,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor | My Solution](https://www.frontendmentor.io/solutions/interactive-rating-component-html-js-css-bootstrap-r1NJ0ru4q)
-- Live Site URL: [Halibal | Interactive Rating Component](https://halibal.github.io/interactive-rating-component/)
+- Live Site URL: [Halibal | NFT Preview Card Component](https://halibal.github.io/nft-preview-card-component/)
 
 ### Built with
 
@@ -44,16 +42,6 @@ Users should be able to:
 - [Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
 - [JavaScript](https://www.javascript.com)
 
-### Continued development
-
-Still have to work so hard to get to a point where I feel like I'm doing a good job.
-
-### Useful resources
-
-- [W3Schools | addEventListener](https://www.w3schools.com/jsref/met_element_addeventlistener.asp)
-- [Geeksforgeeks | Call Multiple Functions in Onclick Event](https://www.geeksforgeeks.org/call-multiple-javascript-functions-in-onclick-event/)
-- [Bootstrap | Flex](https://getbootstrap.com/docs/5.0/utilities/flex/)
-
 ## Author
 
 - LinkedIn - [Halil ALGUL](https://www.linkedin.com/in/halilagul/)
@@ -62,4 +50,4 @@ Still have to work so hard to get to a point where I feel like I'm doing a good 
 
 ## Acknowledgments
 
-Thank you Zafer Erol for helping me on the completion of this project.
+Thank you Ayse Varlik for helping me on the completion of this project.
