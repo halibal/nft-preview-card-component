@@ -29,14 +29,13 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor | My Solution](https://www.frontendmentor.io/solutions/interactive-rating-component-html-js-css-bootstrap-r1NJ0ru4q)
+- Solution URL: [Frontend Mentor | My Solution](https://www.frontendmentor.io/solutions/nft-preview-card-component-using-css-html-r125vAc49)
 - Live Site URL: [Halibal | NFT Preview Card Component](https://halibal.github.io/nft-preview-card-component/)
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
-- [Flex](https://getbootstrap.com/docs/5.0/utilities/flex/)
 
 ## Author
 
